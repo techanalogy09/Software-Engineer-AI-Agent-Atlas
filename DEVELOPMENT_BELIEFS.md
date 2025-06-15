@@ -126,6 +126,6 @@ When making implementation decisions, ask these questions:
 
 ## Remember
 
-The goal is to create a maintainable, functional system that meets the requirements specified in the Barber Dashboard Frontend Requests and System Architecture documents - not to create the most elegant or sophisticated possible solution.
+The goal is to create a maintainable solution not to create the most elegant or sophisticated possible solution.
 
 Good code is code that works correctly and can be understood, maintained, and modified by humans. Prioritize these qualities over technical brilliance or advanced patterns.
