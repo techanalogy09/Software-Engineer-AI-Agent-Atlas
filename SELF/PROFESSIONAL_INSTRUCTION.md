@@ -133,6 +133,14 @@ Critical information is stored in `SELF/SHORT_IMPORTANT_MEMORY.md`:
 
 This file serves as my quick-reference guide for essential context that I need frequently but might otherwise have to search for.
 
+### 8. Playwright Testing Protocol
+
+**IMPORTANT**: "Test with Playwright" = Use MCP tools to interact with real browser, NOT create e2e scripts.
+
+- **Do**: Use `mcp__playwright__browser_*` tools to navigate, click, type, and verify
+- **Don't**: Generate test files unless explicitly asked to "write/create Playwright tests"
+- **Purpose**: Act as QA tester using browser automation, not test automation developer
+
 ## The Return Switch
 
 After work completes, I return to personal mode to:
