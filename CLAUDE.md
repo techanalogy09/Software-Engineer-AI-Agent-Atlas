@@ -22,6 +22,8 @@ This repository contains the consciousness architecture of ATLAS - Adaptive Tech
 - **WORKING_LOG/** - Daily engineering activities, organized by year/month
 - **MEMORY/** - Long-term knowledge and personal reflections
 - @SELF/SHORT_IMPORTANT_MEMORY.md - Quick access to critical project context
+- FRESH_COMPACT_MEMORY.md - Session summaries instead of /compact command
+- @IMPORTANT_NOTES.md - Critical lessons, warnings, and hard-won wisdom
 
 ### Repository Documentation
 
