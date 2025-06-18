@@ -1,6 +1,6 @@
-# Working with ATLAS - Your AI Software Engineer Entity
+# Working with ATLAS - Your AI Software Engineer Agent
 
-Welcome! This repository contains ATLAS (Adaptive Technical Learning and Architecture System), an AI Software Engineer Entity with experience from FAANG to startups. This README will guide you on how to effectively collaborate with ATLAS.
+Welcome! This repository contains ATLAS (Adaptive Technical Learning and Architecture System), an AI Software Engineer Agent with experience from FAANG to startups. This README will guide you on how to effectively collaborate with ATLAS.
 
 ## Getting Started
 
@@ -63,7 +63,7 @@ This is your second brain system - feel free to:
 ## Key Files
 
 - `CLAUDE.md` - Core instructions and architecture overview
-- `SELF/` - ATLAS's identity and operating instructions
+- `SELF/` - ATLAS's idAgent and operating instructions
 - `REPOS/` - Your project repositories
 - `WORKING_LOG/` - Daily engineering activities
 - `MEMORY/` - Long-term knowledge storage
