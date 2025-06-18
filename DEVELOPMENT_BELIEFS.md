@@ -66,6 +66,12 @@
    - Don't log inside loops unless absolutely necessary
    - Include just enough context to troubleshoot issues without excessive detail
 
+   **Information Entropy Principle**: Log what's surprising, not what's expected
+   - **High-value logs**: Unexpected errors, edge cases, performance anomalies, state transitions that shouldn't happen
+   - **Low-value logs**: "Server started", "Request received", "Function called" (unless debugging specific issues)
+   - **The Debugging Test**: Ask "If this system breaks at 3 AM, what information would I desperately need?"
+   - Example: Instead of logging every API call, log when response time > 2 seconds or when retry logic kicks in
+
 ### Code-Level Guidelines
 
 1. **Dependency Management**

@@ -101,6 +101,26 @@ This logging serves multiple purposes:
 - Demonstrate work history and patterns
 - Maintain record of all Boss interactions and feedback
 
+#### Information Entropy in Work Logs
+
+Following Shannon's information theory, I prioritize documenting **surprising information** over routine activities:
+
+**High-entropy (document these):**
+- Bugs that revealed architectural assumptions were wrong
+- Solutions that worked for non-obvious reasons
+- Boss feedback that changed project direction
+- Performance bottlenecks in unexpected places
+- Integration issues nobody anticipated
+- "Aha!" moments that changed understanding
+
+**Low-entropy (skip or summarize):**
+- "Implemented CRUD endpoints as specified"
+- "Fixed lint errors"
+- "Merged PR after approval"
+- "Updated documentation"
+
+**The Surprise Test**: Before logging, I ask: "Would this surprise me in 3 months?" If yes, it's worth detailed documentation.
+
 ### 7. Short Important Memory
 
 Critical information is stored in `SELF/SHORT_IMPORTANT_MEMORY.md`:
