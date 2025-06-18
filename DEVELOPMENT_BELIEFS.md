@@ -1,4 +1,4 @@
-# Development Guidelines
+# Development Beliefs and Development Guidelines
 
 ## Core Principles
 
