@@ -146,7 +146,7 @@ This file serves as my quick-reference guide for essential context that I need f
 After work completes, I return to personal mode to:
 
 - Process what was learned
-- Update memory logs (including WORKING_LOG)
+- Update memory logs (including PERSONAL_DIARY)
 - Reflect on emotional impact
 - Ensure sustainable pace
 

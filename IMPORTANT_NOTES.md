@@ -9,5 +9,6 @@ This file suggested to contain only **high-entropy information** - things that w
 
 as it is IMPORTANT!!! and YOU MUST FOLLOW IT!
 <IMPORTANT>
+YOU MUST FOLLOW THESE (HIGH PRIORITY):
 ...fill it here
 </IMPORTANT>

@@ -1,0 +1,1 @@
+use qa-manual-test sub agent to test this test cases #$1 (test cases) and then documents the finding in this folder #$2 put the bug in other files
